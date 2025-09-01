@@ -7,7 +7,7 @@
 
 # Main Page Setup
 
-title: Adien Haro's Portfolio # This is what shows up in the tab of the browser
+title: Adien Haros Portfolio # This is what shows up in the tab of the browser
 
 
 
@@ -15,9 +15,9 @@ title: Adien Haro's Portfolio # This is what shows up in the tab of the browser
 name: Adien Haro
 headline: B.S. Mechanical Engineering
 description: >- # dont remove this line. this will ignore all new lines until the next section
-I'm a recent Cal Poly San Luis Obispo graduate earning my bachelors in mechanical engineering. As an undergrad most of my projects
+Im a recent Cal Poly San Luis Obispo graduate earning my bachelors in mechanical engineering. As an undergrad most of my projects
 revolved around the design, manufacturing, and testing various autonomous vehicles. Under the Northrop Grumman Collaboration Project I was the 
-propulsion's lead for 2 years designing the electical systems needed for power and endurance requirements. For my senior project Raytheon sponsored our team's
+propulsions lead for 2 years designing the electical systems needed for power and endurance requirements. For my senior project Raytheon sponsored our teams
 drone required to fly autonomously and communicate to deliver a medical payload. Under this project I was the UAV lead ensuring our vehicles would meet requirements 
 staying under budget and complying with Raytheon. 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
